@@ -1,4 +1,4 @@
-package mf.irregex
+package com.sadsha.fancykeyboard
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

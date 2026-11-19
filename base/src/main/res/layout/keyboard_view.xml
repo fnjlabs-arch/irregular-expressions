@@ -11,7 +11,7 @@
 
     <include layout="@layout/keyboard_extras" />
 
-    <mf.irregex.keyboard.IrregularKeyboardView
+    <com.sadsha.fancykeyboard.keyboard.IrregularKeyboardView
         android:id="@+id/keyboard_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

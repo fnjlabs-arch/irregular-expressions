@@ -1,12 +1,12 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import mf.irregex.R
-import mf.irregex.styles.StylePickerAdapter.ItemViewHolder
+import com.sadsha.fancykeyboard.R
+import com.sadsha.fancykeyboard.styles.StylePickerAdapter.ItemViewHolder
 
 class StylePickerAdapter(
     private var dataSource: List<AppTextStyle>?,

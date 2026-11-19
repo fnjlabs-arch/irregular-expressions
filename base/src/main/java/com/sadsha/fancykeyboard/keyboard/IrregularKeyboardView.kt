@@ -1,6 +1,6 @@
 @file:Suppress("DEPRECATION")
 
-package mf.irregex.keyboard
+package com.sadsha.fancykeyboard.keyboard
 
 import android.content.Context
 import android.content.res.Resources.Theme
@@ -14,7 +14,7 @@ import android.util.TypedValue
 import androidx.annotation.RequiresApi
 import androidx.preference.PreferenceManager
 import androidx.vectordrawable.graphics.drawable.VectorDrawableCompat
-import mf.irregex.R
+import com.sadsha.fancykeyboard.R
 
 class IrregularKeyboardView : KeyboardView {
 

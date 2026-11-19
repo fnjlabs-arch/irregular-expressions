@@ -1,4 +1,4 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 class RandomCaps internal constructor(
     name: String,

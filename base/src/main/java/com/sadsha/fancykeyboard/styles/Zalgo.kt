@@ -1,4 +1,4 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 import java.util.*
 import kotlin.math.roundToInt

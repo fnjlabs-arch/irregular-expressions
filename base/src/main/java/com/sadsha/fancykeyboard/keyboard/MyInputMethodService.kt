@@ -1,6 +1,6 @@
 @file:Suppress("DEPRECATION")
 
-package mf.irregex.keyboard
+package com.sadsha.fancykeyboard.keyboard
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -29,19 +29,19 @@ import androidx.appcompat.widget.AppCompatImageView
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import mf.irregex.R
-import mf.irregex.keyboard.Constants.DEFAULT_HEIGHT
-import mf.irregex.keyboard.Constants.DEFAULT_VIBRATIONS
-import mf.irregex.keyboard.Constants.DOUBLETAP_MAX_DELAY_MS
-import mf.irregex.keyboard.Constants.KEYCODE_SPACE
-import mf.irregex.keyboard.Constants.LONG_PRESS
-import mf.irregex.keyboard.Constants.PROCESS_HARD_KEYS
-import mf.irregex.keyboard.Constants.REGULAR_STYLE_INDEX
-import mf.irregex.keyboard.Constants.VIBRATION_DURATION_MS
-import mf.irregex.settings.SettingsActivity
-import mf.irregex.styles.AppTextStyle
-import mf.irregex.styles.AvailableStyles.getEnabledStyles
-import mf.irregex.styles.StylePickerAdapter
+import com.sadsha.fancykeyboard.R
+import com.sadsha.fancykeyboard.keyboard.Constants.DEFAULT_HEIGHT
+import com.sadsha.fancykeyboard.keyboard.Constants.DEFAULT_VIBRATIONS
+import com.sadsha.fancykeyboard.keyboard.Constants.DOUBLETAP_MAX_DELAY_MS
+import com.sadsha.fancykeyboard.keyboard.Constants.KEYCODE_SPACE
+import com.sadsha.fancykeyboard.keyboard.Constants.LONG_PRESS
+import com.sadsha.fancykeyboard.keyboard.Constants.PROCESS_HARD_KEYS
+import com.sadsha.fancykeyboard.keyboard.Constants.REGULAR_STYLE_INDEX
+import com.sadsha.fancykeyboard.keyboard.Constants.VIBRATION_DURATION_MS
+import com.sadsha.fancykeyboard.settings.SettingsActivity
+import com.sadsha.fancykeyboard.styles.AppTextStyle
+import com.sadsha.fancykeyboard.styles.AvailableStyles.getEnabledStyles
+import com.sadsha.fancykeyboard.styles.StylePickerAdapter
 import java.util.concurrent.TimeUnit
 import kotlin.math.roundToInt
 

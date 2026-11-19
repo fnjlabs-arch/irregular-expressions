@@ -1,24 +1,21 @@
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=mf.asciitext.lite">
-    <img alt="Irregular Expressions" src="/assets/irregex.png" width="100" />
+  <a href="https://play.google.com/store/apps/details?id=com.sadsha.fancykeyboard">
+    <img alt="SadSha Fancy Keyboard" src="/assets/irregex.png" width="100" />
   </a>
 </p>
 <h1 align="center">
-  <a href="https://play.google.com/store/apps/details?id=mf.asciitext.lite">🅸🆁𝚛🄴🅖🅄ʟ🄰ⓡ<br/>Expressions</a>
+  <a href="https://play.google.com/store/apps/details?id=com.sadsha.fancykeyboard">🅸🆁𝚛🄴🅖🅄ʟ🄰ⓡ<br/>Expressions</a>
 </h1>
 
 <p align="center">
-<img src='https://img.shields.io/github/last-commit/mobilefirstllc/irregular-expressions'/> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MobileFirstLLC/irregular-expressions" /> <a href="https://codeclimate.com/github/MobileFirstLLC/irregular-expressions/maintainability"><img src="https://api.codeclimate.com/v1/badges/7acf23c4d105b11b5d3e/maintainability" /></a>
+<img src='https://img.shields.io/github/last-commit/fnjlabs-arch/irregular-expressions'/> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/fnjlabs-arch/irregular-expressions" />
 <br/>  
-<img alt="F-Droid Release" src="https://img.shields.io/f-droid/v/mf.asciitext.lite.svg?logo=f-droid"/> <img alt="GitHub Release" src="https://img.shields.io/github/release/MobileFirstLLC/irregular-expressions?logo=github"/>
+<img alt="F-Droid Release" src="https://img.shields.io/f-droid/v/com.sadsha.fancykeyboard.svg?logo=f-droid"/> <img alt="GitHub Release" src="https://img.shields.io/github/release/fnjlabs-arch/irregular-expressions?logo=github"/>
 <br/><br/>
-<a href="https://hosted.weblate.org/engage/irregular-expressions/">
-<img src="https://hosted.weblate.org/widgets/irregular-expressions/-/strings/287x66-black.png" alt="Translation status" />
-</a>
 </p>
 
 <h3 align="center">
-Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram &mdash; any app with typing!
+SadSha Fancy Keyboard is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram &mdash; any app with typing!
 </h3>
 
 <br/><br/>
@@ -31,16 +28,16 @@ Irregular Expressions is a virtual keyboard for Android devices. With this keybo
 <br/><br/>
 
 <p align="center">
-<a href='https://play.google.com/store/apps/details?id=mf.asciitext.lite'> 
+<a href='https://play.google.com/store/apps/details?id=com.sadsha.fancykeyboard'> 
 <img alt='Get it on Google Play' height="72" align="center" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
 </a>
-<a href='https://f-droid.org/packages/mf.asciitext.lite/'> 
+<a href='https://f-droid.org/packages/com.sadsha.fancykeyboard/'> 
 <img alt='Get it on F-Droid' height="72" align="center" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/>
 </a>
 </p> 
 <br/>
 <p align="center">
-You can also find APKs under <a href="https://github.com/MobileFirstLLC/irregular-expressions/releases">releases</a>.
+You can also find APKs under <a href="https://github.com/fnjlabs-arch/irregular-expressions/releases">releases</a>.
 </p>  
 
 <br/><br/>
@@ -129,19 +126,13 @@ This app collects no data about the user, None, 0 KB.
 
 If you want to use the keyboard in your native language, consider translating it. Current status:
 
-<a href="https://hosted.weblate.org/engage/irregular-expressions/">
-<img src="https://hosted.weblate.org/widgets/irregular-expressions/-/strings/multi-auto.svg" alt="Translation status" width="500" />
-</a>
-
-**[Translate on Weblate](https://hosted.weblate.org/engage/irregular-expressions/)**
-
 * * *
 
 ### Sponsor this project
 
 If you enjoy this keyboard and/or find the source code useful consider sponsoring the project. We make ad-free, free software and do not spy or steal your data. All support is greatly appreciated.
 
-**[Become a sponsor](https://github.com/sponsors/MobileFirstLLC?o=sd&sc=t)**
+**SadSha Fancy Keyboard** — a SadSha product, based on Irregular Expressions (MIT, Mobile First).
 
 * * *
 
@@ -149,7 +140,7 @@ If you enjoy this keyboard and/or find the source code useful consider sponsorin
 
 Beta testers are a vital part of software development process. As a beta tester you get early access to releases and can provide feedback to the developer if something is not working correctly, before the software is released to all users. Becoming a beta tester does not cost anything and you can leave the program at any time.
 
- **[Join Beta Tester Program](https://play.google.com/apps/testing/mf.asciitext.lite).**
+ **[Join Beta Tester Program](https://play.google.com/apps/testing/com.sadsha.fancykeyboard).**
 
 * * *
 
@@ -168,7 +159,7 @@ Beta testers are a vital part of software development process. As a beta tester 
 * * *
 
 <p align="center">
-Made by <a href="https://mobilefirst.me">Mobile First</a> • Read the <a href="/privacy.md">Privacy Policy</a> • <a href="/LICENSE">MIT License</a>
+Made by <a href="https://toolzo.app">SadSha</a> • Read the <a href="/privacy.md">Privacy Policy</a> • <a href="/LICENSE">MIT License</a>
 </p>
 
 * * *

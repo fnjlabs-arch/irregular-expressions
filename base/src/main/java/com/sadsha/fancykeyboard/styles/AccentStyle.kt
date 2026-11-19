@@ -1,4 +1,4 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 class AccentStyle internal constructor(
     id: String,

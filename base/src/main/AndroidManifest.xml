@@ -6,7 +6,7 @@
     <dist:module dist:instant="true" />
 
     <application
-        android:name="mf.irregex.App"
+        android:name="com.sadsha.fancykeyboard.App"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -16,7 +16,7 @@
         android:usesCleartextTraffic="false"
         android:theme="@style/AppTheme">
         <activity
-            android:name="mf.irregex.SplashScreen"
+            android:name="com.sadsha.fancykeyboard.SplashScreen"
             android:theme="@style/SplashTheme"
             android:exported="true">
             <intent-filter>
@@ -26,7 +26,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="mf.irregex.MainActivity"
+            android:name="com.sadsha.fancykeyboard.MainActivity"
             android:windowSoftInputMode="adjustPan"
             android:exported="true">
             <intent-filter>
@@ -36,11 +36,11 @@
         <activity
             android:launchMode="singleInstance"
             android:windowSoftInputMode="stateAlwaysHidden"
-            android:name="mf.irregex.settings.SettingsActivity"
+            android:name="com.sadsha.fancykeyboard.settings.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:theme="@style/AppToolbarTheme" />
 
-        <service android:name="mf.irregex.keyboard.MyInputMethodService"
+        <service android:name="com.sadsha.fancykeyboard.keyboard.MyInputMethodService"
             android:permission="android.permission.BIND_INPUT_METHOD"
             android:exported="true">
             <intent-filter>

@@ -20,4 +20,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep public class mf.irregex.settings.StyleConfigFragment {*;}
+-keep public class com.sadsha.fancykeyboard.settings.StyleConfigFragment {*;}

@@ -1,4 +1,4 @@
-package mf.irregex.settings
+package com.sadsha.fancykeyboard.settings
 
 import android.app.Dialog
 import android.content.Context
@@ -11,10 +11,10 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import mf.irregex.R
-import mf.irregex.styles.AvailableStyles.getStyles
-import mf.irregex.styles.AvailableStyles.setNewPosition
-import mf.irregex.styles.AvailableStyles.toggleEnabled
+import com.sadsha.fancykeyboard.R
+import com.sadsha.fancykeyboard.styles.AvailableStyles.getStyles
+import com.sadsha.fancykeyboard.styles.AvailableStyles.setNewPosition
+import com.sadsha.fancykeyboard.styles.AvailableStyles.toggleEnabled
 
 
 class StyleConfigFragment : Fragment() {

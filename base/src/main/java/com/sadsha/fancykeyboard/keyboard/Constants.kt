@@ -1,4 +1,4 @@
-package mf.irregex.keyboard
+package com.sadsha.fancykeyboard.keyboard
 
 object Constants {
 

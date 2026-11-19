@@ -1,7 +1,7 @@
-package mf.irregex
+package com.sadsha.fancykeyboard
 
 import android.app.Application
-import mf.irregex.styles.AvailableStyles
+import com.sadsha.fancykeyboard.styles.AvailableStyles
 
 class App : Application() {
 

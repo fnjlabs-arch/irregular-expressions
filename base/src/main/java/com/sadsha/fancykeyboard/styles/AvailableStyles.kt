@@ -1,4 +1,4 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -6,7 +6,7 @@ import android.content.res.Resources
 import android.content.res.TypedArray
 import androidx.annotation.StyleableRes
 import androidx.preference.PreferenceManager
-import mf.irregex.R
+import com.sadsha.fancykeyboard.R
 import java.util.*
 import kotlin.collections.HashSet
 

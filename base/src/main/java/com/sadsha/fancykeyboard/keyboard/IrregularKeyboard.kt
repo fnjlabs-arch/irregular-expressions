@@ -1,4 +1,4 @@
-package mf.irregex.keyboard
+package com.sadsha.fancykeyboard.keyboard
 
 import android.content.Context
 import android.inputmethodservice.Keyboard

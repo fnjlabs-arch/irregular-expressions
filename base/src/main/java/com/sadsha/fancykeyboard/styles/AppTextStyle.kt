@@ -1,4 +1,4 @@
-package mf.irregex.styles
+package com.sadsha.fancykeyboard.styles
 
 abstract class AppTextStyle(
     protected var id: String,

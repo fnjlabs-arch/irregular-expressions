@@ -1,11 +1,11 @@
-package mf.irregex.settings
+package com.sadsha.fancykeyboard.settings
 
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
-import mf.irregex.R
+import com.sadsha.fancykeyboard.R
 
 class SettingsActivity : AppCompatActivity(),
     PreferenceFragmentCompat.OnPreferenceStartFragmentCallback {

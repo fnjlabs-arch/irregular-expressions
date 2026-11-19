@@ -8,7 +8,7 @@ android {
     compileSdk 34
     buildFeatures.viewBinding = true
     defaultConfig {
-        applicationId "mf.asciitext.lite"
+        applicationId "com.sadsha.fancykeyboard"
         minSdk 30
         targetSdk 34
         versionCode 17
@@ -16,7 +16,7 @@ android {
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resValue "string", "versionName", versionName
-        resValue "string", "feedbackUri", "https://mobilefirst.me/feedback?appId=irregular-expressions&os=android&version=" + versionName
+        resValue "string", "feedbackUri", "https://github.com/fnjlabs-arch/irregular-expressions/issues?os=android&version=" + versionName
         resValue "string", "rateUri", "https://play.google.com/store/apps/details?id=" + applicationId
     }
     buildTypes {
@@ -38,7 +38,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'mf.irregex'
+    namespace 'com.sadsha.fancykeyboard'
     lint {
         abortOnError true
         checkReleaseBuilds true

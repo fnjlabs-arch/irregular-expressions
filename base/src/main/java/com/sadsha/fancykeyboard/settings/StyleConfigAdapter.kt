@@ -1,4 +1,4 @@
-package mf.irregex.settings
+package com.sadsha.fancykeyboard.settings
 
 import android.view.LayoutInflater
 import android.view.View
@@ -9,8 +9,8 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.switchmaterial.SwitchMaterial
-import mf.irregex.R
-import mf.irregex.styles.AppTextStyle
+import com.sadsha.fancykeyboard.R
+import com.sadsha.fancykeyboard.styles.AppTextStyle
 import java.util.*
 
 class StyleConfigAdapter(
